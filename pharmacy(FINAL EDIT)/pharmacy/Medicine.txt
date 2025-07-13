@@ -1,0 +1,180 @@
+ID            : 2001
+Medicine Name : Napa
+Cost          : 2
+Company       : Beximo
+Type          : Tab
+===============================================
+ID            : 2002
+Medicine Name : Sergel
+Cost          : 7
+Company       : Renata
+Type          : Tab
+===============================================
+ID            : 2003
+Medicine Name : Ambrox
+Cost          : 40
+Company       : Drug Int.
+Type          : Syrup
+===============================================
+ID            : 2004
+Medicine Name : Adovas
+Cost          : 40
+Company       : Square
+Type          : Syrup
+===============================================
+ID            : 2005
+Medicine Name : Fexo
+Cost          : 10
+Company       : Square
+Type          : Tab
+===============================================
+ID            : 2006
+Medicine Name : Monten
+Cost          : 17
+Company       : SkF
+Type          : Tab
+===============================================
+ID            : 2007
+Medicine Name : Monas10
+Cost          : 30
+Company       : Square
+Type          : tab
+===============================================
+ID            : 2008
+Medicine Name : Glucon
+Cost          : 40
+Company       : Beximco
+Type          : Tab
+===============================================
+ID            : 2009
+Medicine Name : Alatrol
+Cost          : 2
+Company       : Ad-Din
+Type          : Tab
+===============================================
+ID            : 2010
+Medicine Name : Ace
+Cost          : 3
+Company       : Radiant
+Type          : Tab
+===============================================
+ID            : 2011
+Medicine Name : Revital
+Cost          : 30
+Company       : Revital
+Type          : Tab
+===============================================
+ID            : 2012
+Medicine Name : Jardimat
+Cost          : 40
+Company       : Beximco
+Type          : Tab
+===============================================
+ID            : 2013
+Medicine Name : Corcin
+Cost          : 10
+Company       : Healthcare
+Type          : Tab
+===============================================
+ID            : 2014
+Medicine Name : saridon
+Cost          : 20
+Company       : ciple
+Type          : tab
+===============================================
+ID            : 2015
+Medicine Name : Falcol
+Cost          : 30
+Company       : Revital
+Type          : Tab
+===============================================
+ID            : 2016
+Medicine Name : Finix
+Cost          : 40
+Company       : Opsonin
+Type          : Tab
+===============================================
+ID            : 2017
+Medicine Name : Maganta
+Cost          : 10
+Company       : Square
+Type          : Tab
+===============================================
+ID            : 2018
+Medicine Name : Ancor
+Cost          : 20
+Company       : Aristopharma
+Type          : Tab
+===============================================
+ID            : 2019
+Medicine Name : Montela
+Cost          : 30
+Company       : Delta
+Type          : Tab
+===============================================
+ID            : 2020
+Medicine Name : Secrin
+Cost          : 40
+Company       : Square
+Type          : Tab
+===============================================
+ID            : 2021
+Medicine Name : Vertina Plus
+Cost          : 10
+Company       : Square
+Type          : Tab
+===============================================
+ID            : 2022
+Medicine Name : Deslor
+Cost          : 20
+Company       : Orion
+Type          : Tab
+===============================================
+ID            : 2023
+Medicine Name : Reservix
+Cost          : 30
+Company       : Incepta
+Type          : Tab
+===============================================
+ID            : 2024
+Medicine Name : Losectil
+Cost          : 40
+Company       : SK+F
+Type          : Tab
+===============================================
+ID            : 2025
+Medicine Name : PG
+Cost          : 40
+Company       : SK+F
+Type          : Tab
+===============================================
+ID            : 2026
+Medicine Name : Flexibac
+Cost          : 40
+Company       : Beacon
+Type          : Tab
+===============================================
+ID            : 2027
+Medicine Name : Bizoran
+Cost          : 10
+Company       : Beximco
+Type          : Tab
+===============================================
+ID            : 2028
+Medicine Name : Flugal
+Cost          : 17
+Company       : Square
+Type          : Tab
+===============================================
+ID            : 2029
+Medicine Name : Xinc
+Cost          : 30
+Company       : SK+F
+Type          : Tab
+===============================================
+ID            : 2030
+Medicine Name : D-Rise
+Cost          : 40
+Company       : Beximco
+Type          : Tab
+===============================================
